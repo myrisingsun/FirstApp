@@ -86,6 +86,7 @@ public class FirstApp {
         return Integer.MAX_VALUE; // вернуть максимальное значение Int
     }
 
+
     static void delic(int x, int y) {
         if (x > y) {
             System.out.println("x > y");
